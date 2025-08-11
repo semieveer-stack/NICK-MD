@@ -42,7 +42,7 @@ First star & Fork the repo using the button below!
 ### 2. Get Session ID
 
 ### ❄  PORTAL CODE
-[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://tiara-session.onrender.com/)
+[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://novapair.onrender.com//)
 
 
 #### ❄  OPTION ONE
