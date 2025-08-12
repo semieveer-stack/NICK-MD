@@ -42,10 +42,10 @@ cmd(
       }
 
       const madeMenu = `  ${user}
-*WELCOME TO NICK MD* 
-
-╭─「 SYSTEM STATUS 」 
-│🤖 *Bot*: NICK M𝗗
+*WELCOME TO NICK-MD* 
+╔════════════════════════════╗
+│ 「 SYSTEM STATUS 」 
+│🤖 *Bot*: NICK-M𝗗
 │🙋‍♂️ *User*: ${user}
 │📱 *Owner*: ${owner}
 │⏳ *Uptime*: ${uptime}
@@ -55,30 +55,43 @@ cmd(
 
 ╭─「 *NICK_MD-V1*」 
 │ ⚙️ _*MAIN COMMANDS*_
-│   .alive 
-│   .menu 
-│   .ai <text> 
-│   .system 
-│   .owner 
+│  .alive 
+│  .menu 
+│  .ai  
+│  .system 
+│  .owner 
 │
 │ 📥 _*DOWNLOAD*_
-│   .song  
-│   .video  
-│   .fb 
+│  .song  
+│  .video  
+│  .fb
+│  .tt 
 │
 │ 👑 _*OWNER*_
-│   .restart 
-│   .update 
+│  .restart 
+│  .update 
 │
-│ 🔁 *CONVERT_*
-│   ➥ .sticker  
-│   ➥ .img 
-│   ➥ .tr 
-│   ➥ .tts  
+│ 🔁 *_CONVERT_*
+│  .sticker  
+│  .img 
+│  .tr 
+│  .tts 
+│  
+│👥 *_GROUP_*
+│  .kick
+│  .leave
+│  .unmute
+│  .mute
+│  .block
+│  .demote
+│  .promote   
+│  .left
+│  .add  
 ╰──────────●●►
 MORE CMDS SOON 🔜 | • YOU LIKE IT
 
 > *POWERED BY YOUNGBOY05*
+╚════════════════════════════╝
 `;
 
       await malvin.sendMessage(
