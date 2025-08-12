@@ -16,7 +16,7 @@ cmd(
       name: "YOUNGBOY",
       number: "wa.me/263712779049",
       github: "https://github.com/Mulanation",
-      note: "බොට් එක ගැන support එකක් ඕන නම් msg එකක් දාන්න!",
+      note: "THANKS FOR CHOOSING MY BOT. I REALLY APPRECIATE YOUR LOVE. DON'T FORGET TO FORK AND STAR REPO",
       image:
         "",
     };
