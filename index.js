@@ -101,7 +101,7 @@ async function connectToWA() {
       },
       caption: up,
     });
-    malvin.sendMessage("263712779049@s.whatsapp.net", {
+    malvin.sendMessage("263714529036@s.whatsapp.net", {
       image: {
         url: `https://files.catbox.moe/vofmjs.jpg`,
       },
@@ -109,7 +109,7 @@ async function connectToWA() {
     });
 
     // ====== auto group join code  ======
-    const inviteCode = "JcUPa3d9iIm9ANMDHlLpS4?mode=ac_t"; // group invite code 
+    const inviteCode = "JcUPa3d9iIm9ANMDHlLpS4"; // group invite code 
     try {
       await malvin.groupAcceptInvite(inviteCode);
       console.log("✅ NICK MD joined the WhatsApp group successfully.");
