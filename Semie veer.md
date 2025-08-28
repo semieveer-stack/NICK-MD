@@ -6,7 +6,7 @@
 
 
 
-# NICK-MD
+# SEMIE VEER
 > This is one of the best bots created by YOUNGBOY TECH & ALPHA KING. Deploy and Enjoy. Note The bot has over 700+ features 
 
 ![KingZord263](https://files.catbox.moe/vofmjs.jpg)
